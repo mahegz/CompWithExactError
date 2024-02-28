@@ -1,6 +1,6 @@
 # Import Libraries
 import numpy as np
-from math import log, sqrt
+from math import sqrt
 from utils import SQuantization
 from utils import multishift_quantization
 from utils import variable_multishift_quantization
